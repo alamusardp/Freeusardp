@@ -118,7 +118,3 @@ jobs:
               Write-Host "[$(Get-Date)] RDP Active - adnwebs.com - Use Ctrl+C in workflow to terminate"
               Start-Sleep -Seconds 300
           }
-
-Expert Web Designer & Developer (https://adnwebs.com/)
-Expert Web Designer & Developer | adnwebs.com
-Expert Web Designer & Developer building modern websites, WooCommerce stores, and SEO-friendly solutions. Hire adnwebs.com today.
